@@ -1,4 +1,4 @@
 # SaveMoneySystem
 SaveMoneySystem(Bank)
 
-模仿存取款系统，但并未做记录剩余金额，每次启动都会重置金额，详细请自己分析代码
+模仿银行系统，已经做出记载余额代码，余额存在根目录的money.txt文件中，详细请自己分析代码
