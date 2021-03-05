@@ -1,6 +1,6 @@
-print('注意！请不要删除money.txt文件及内容，否则将运行失败！')
-print('注意！请不要删除money.txt文件及内容，否则将运行失败！')
-print('注意！请不要删除money.txt文件及内容，否则将运行失败！')
+print('请不要删除money.txt文件及内容，否则将运行失败！')
+print('请不要删除money.txt文件及内容，否则将运行失败！')
+print('请不要删除money.txt文件及内容，否则将运行失败！')
 #Tips
 control = input('请问您需要存款还是取款呢？')
 money = open("money.txt")
